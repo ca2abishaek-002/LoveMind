@@ -1,8 +1,8 @@
-# LOVEMIND
+﻿# LOVEMIND
 ## AN AI PROXY CHARACTER DATING APP
 ### A MINI PROJECT REPORT
 Submitted by
-**V SADHANA (2403727710622168)**
+**V KALPANA (2403727710622168)**
 
 In partial fulfilment for the award of the degree of
 **BACHELOR OF ENGINEERING**
@@ -11,19 +11,19 @@ IN
 
 **SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY**
 An Autonomous Institution | Approved by AICTE | Affiliated to Anna University | Accredited by NAAC with A++ Grade
-Kuniamuthur, Coimbatore – 641008.
+Kuniamuthur, Coimbatore â€“ 641008.
 September 2026
 
 ---
 
 ## SUSTAINABLE DEVELOPMENT GOALS
-The Sustainable Development Goals are a collection of 17 global goals designed to provide a blueprint for achieving a better and more sustainable future for all. The LoveMind project is primarily aligned with **SDG 3 – Good Health and Well-being** and **SDG 9 – Industry, Innovation and Infrastructure**.
+The Sustainable Development Goals are a collection of 17 global goals designed to provide a blueprint for achieving a better and more sustainable future for all. The LoveMind project is primarily aligned with **SDG 3 â€“ Good Health and Well-being** and **SDG 9 â€“ Industry, Innovation and Infrastructure**.
 
 LoveMind supports SDG 3 by encouraging authentic connections and helping users find compatible partners through personality-based interactions, reducing the anxiety of traditional superficial dating apps. It supports SDG 9 by applying modern full-stack technologies to build a robust web application that combines a user interface, backend services, authentication, and a database.
 
 | Question | Answer |
 |----------|--------|
-| Which SDGs does the project support? | SDG 3 – Good Health and Well-being and SDG 9 – Industry, Innovation and Infrastructure. |
+| Which SDGs does the project support? | SDG 3 â€“ Good Health and Well-being and SDG 9 â€“ Industry, Innovation and Infrastructure. |
 | How does the project support these goals? | It provides a personality-first platform for authentic human connections and demonstrates the integration of modern web technologies. |
 | What is the expected impact? | Improved mental well-being in dating, structured relationship-building, and practical software-development experience. |
 | What is the project limitation? | The AI proxy represents a simulated persona; it does not replace actual human communication and interaction. |
@@ -31,7 +31,7 @@ LoveMind supports SDG 3 by encouraging authentic connections and helping users f
 ---
 
 ## BONAFIDE CERTIFICATE
-Certified that this mini project report titled “LoveMind – An AI Proxy Character Dating App” is the bonafide work of **V SADHANA (2403727710622168)** who carried out the mini project under my supervision.
+Certified that this mini project report titled â€œLoveMind â€“ An AI Proxy Character Dating Appâ€ is the bonafide work of **V KALPANA (2403727710622168)** who carried out the mini project under my supervision.
 
 **SIGNATURE**
 **DR. D. MOHANA GEETHA**
@@ -39,14 +39,14 @@ HEAD OF THE DEPARTMENT
 Professor
 Department of ECE 
 Sri Krishna College of Engineering and Technology
-Kuniyamuthur, Coimbatore–641008.
+Kuniyamuthur, Coimbatoreâ€“641008.
 
 **SIGNATURE**
 **DR. B VIJAYALAKSHMI**
 SUPERVISOR
 Asst Professor
 Sri Krishna College of Engineering and Technology
-Kuniyamuthur, Coimbatore–641008.
+Kuniyamuthur, Coimbatoreâ€“641008.
 
 Submitted for the Project viva-voce examination held on ______________________________.
 
@@ -68,7 +68,7 @@ We also thank our faculty members, classmates, friends and family for their enco
 ## ABSTRACT
 Modern dating applications often prioritize superficial swiping based on physical appearance, leading to a lack of genuine connection and increased user frustration. To address this, there is a need for a platform that emphasizes personality, intellect, and authentic compatibility before users even initiate a conversation.
 
-**LoveMind – An AI Proxy Character Dating App** is a full-stack web application designed around the innovative idea of personality-first matching. The system allows users to create an account and complete a situational questionnaire. These answers are used to train an AI proxy that mimics the user's personality. Other users can explore potential matches and chat with their AI proxies to gauge compatibility and chemistry before interacting with the real person.
+**LoveMind â€“ An AI Proxy Character Dating App** is a full-stack web application designed around the innovative idea of personality-first matching. The system allows users to create an account and complete a situational questionnaire. These answers are used to train an AI proxy that mimics the user's personality. Other users can explore potential matches and chat with their AI proxies to gauge compatibility and chemistry before interacting with the real person.
 
 The application uses a modern web-development architecture. **React** with **Vite** is used for the frontend interface, while **Java Spring Boot** provides a robust backend API layer. **MongoDB** is used to store user information, questionnaires, and chat histories. Passwords are protected using bcrypt hashing, and authenticated routes are protected using JWT (JSON Web Token) based authentication.
 
@@ -214,13 +214,13 @@ LoveMind demonstrates the design and development of an innovative full-stack web
 
 ## CHAPTER 7: APPENDICES
 
-### Appendix I – Source Code
+### Appendix I â€“ Source Code
 The complete source code is maintained in the project repository.
 - `backend/` : Java Spring Boot source code, models, controllers, services.
 - `frontend/` : React components, context, pages, and CSS design system.
 - `postman_collection.json` : API test suite.
 
-### Appendix II – Screenshots
+### Appendix II â€“ Screenshots
 (Screenshots of Landing Page, Registration, Onboarding, Dashboard, and AI Chat Interface are included in the final software delivery).
 
 ---
